@@ -1,0 +1,40 @@
+%&program=xelatex
+%&encoding=UTF-8 Unicode
+
+\documentclass[letterpaper, 12pt]{article}
+
+\usepackage{setspace,stmaryrd,url,subfigure, amssymb, amsfonts,amsmath,multicol,booktabs}
+\usepackage[font=small, margin=2cm]{caption}
+\usepackage[round]{natbib}
+
+\usepackage{anysize}
+\usepackage[margin=1.25in]{geometry}
+
+\usepackage[silent]{fontspec}
+\usepackage{xltxtra}
+\usepackage{polyglossia}
+
+\newICUfeature{Contextual}{on}{+calt}
+
+\defaultfontfeatures{Mapping=tex-text}
+\newcommand{\salt}[1]{{\addfontfeature{Style=Alternate}{#1}}}
+\newcommand{\hlig}[1]{{\addfontfeature{Ligatures=Historical}{#1}}}
+
+\newfontfamily\greekfont[Script=Greek, Scale=MatchUppercase, Contextual=on]{Junicode}
+\setotherlanguage{greek}
+\setmainfont{Adobe Text Pro}
+
+\begin{document}
+\doublespacing
+
+\author{Jonathan Sterling}
+
+\title{Derivative and Novel Speeches in Plato's \emph{Symposium}}
+\date{April 2013}
+\maketitle
+
+\input{body}
+
+\end{document}
+
+
