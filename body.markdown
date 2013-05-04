@@ -98,7 +98,7 @@ when men pursue men, this is manliness:
 > μὲν ἂν παῖδες ὦσιν, ἅτε τεμάχια ὄντα τοῦ ἄρρενος, φιλοῦσι τοὺς ἄνδρας
 > καὶ χαίρουσι συγκατακείμενοι καὶ συμπεπλεγμένοι τοῖς ἀνδράσι, καί
 > εἰσιν οὗτοι βέλτιστοι τῶν παίδων καὶ μειρακίων, ἅτε ἀνδρειότατοι ὄντες
-> φύσει. (191e1--192a2)
+> φύσει.} (191e1--192a2)
 
 And so, if we wished to characterize Aristophanes's analysis within the
 framework of the dual Eros, it would be the male homosexual
