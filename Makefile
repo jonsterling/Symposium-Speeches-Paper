@@ -6,3 +6,6 @@ body.tex : body.markdown
 Plato-Paper.pdf : body.tex
 	xelatex Plato-Paper
 
+clean:
+	rm *.aux *.log
+
