@@ -94,7 +94,7 @@ love: when men and women pursue each other, this is the spirit of
 adultery; when women pursue women, this is the spirit of lesbianism; but
 when men pursue men, this is manliness:
 
-> \texgtreek{ὅσοι δὲ ἄρρενος τμῆμά εἰσι, τὰ ἄρρενα διώκουσι, καὶ τέως
+> \textgreek{ὅσοι δὲ ἄρρενος τμῆμά εἰσι, τὰ ἄρρενα διώκουσι, καὶ τέως
 > μὲν ἂν παῖδες ὦσιν, ἅτε τεμάχια ὄντα τοῦ ἄρρενος, φιλοῦσι τοὺς ἄνδρας
 > καὶ χαίρουσι συγκατακείμενοι καὶ συμπεπλεγμένοι τοῖς ἀνδράσι, καί
 > εἰσιν οὗτοι βέλτιστοι τῶν παίδων καὶ μειρακίων, ἅτε ἀνδρειότατοι ὄντες
